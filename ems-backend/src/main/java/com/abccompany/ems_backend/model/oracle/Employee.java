@@ -17,6 +17,9 @@ public class Employee {
     @Column(unique = true, nullable = false)
     private String email;
 
+    private String firstName;
+    private String lastName;
+
     private String phoneNumber;
     private LocalDate hireDate;
 
