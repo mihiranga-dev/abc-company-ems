@@ -1,4 +1,4 @@
-package com.abccompany.ems_backend.model.oracle;
+package com.apex.ems_backend.model.oracle;
 
 import jakarta.persistence.*;
 import lombok.Data;

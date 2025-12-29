@@ -1,7 +1,7 @@
-package com.abccompany.ems_backend.controller;
+package com.apex.ems_backend.controller;
 
-import com.abccompany.ems_backend.dto.EmployeeRequestDTO;
-import com.abccompany.ems_backend.service.EmployeeService;
+import com.apex.ems_backend.dto.EmployeeRequestDTO;
+import com.apex.ems_backend.service.EmployeeService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

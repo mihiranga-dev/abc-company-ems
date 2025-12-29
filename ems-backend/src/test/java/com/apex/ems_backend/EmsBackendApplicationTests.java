@@ -1,4 +1,4 @@
-package com.abccompany.ems_backend;
+package com.apex.ems_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

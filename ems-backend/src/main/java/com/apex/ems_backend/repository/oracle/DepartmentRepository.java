@@ -1,6 +1,6 @@
-package com.abccompany.ems_backend.repository.oracle;
+package com.apex.ems_backend.repository.oracle;
 
-import com.abccompany.ems_backend.model.oracle.Department;
+import com.apex.ems_backend.model.oracle.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

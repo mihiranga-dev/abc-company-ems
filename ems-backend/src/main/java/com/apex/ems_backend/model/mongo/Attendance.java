@@ -1,4 +1,4 @@
-package com.abccompany.ems_backend.model.mongo;
+package com.apex.ems_backend.model.mongo;
 
 import jakarta.persistence.Id;
 import lombok.Data;

@@ -1,6 +1,6 @@
-package com.abccompany.ems_backend.repository.mongo;
+package com.apex.ems_backend.repository.mongo;
 
-import com.abccompany.ems_backend.model.mongo.Attendance;
+import com.apex.ems_backend.model.mongo.Attendance;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

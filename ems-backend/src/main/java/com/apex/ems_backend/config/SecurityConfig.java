@@ -1,4 +1,4 @@
-package com.abccompany.ems_backend.config;
+package com.apex.ems_backend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

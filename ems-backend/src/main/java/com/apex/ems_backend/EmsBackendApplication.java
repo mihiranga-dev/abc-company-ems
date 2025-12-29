@@ -1,4 +1,4 @@
-package com.abccompany.ems_backend;
+package com.apex.ems_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

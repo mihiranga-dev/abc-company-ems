@@ -1,14 +1,14 @@
-package com.abccompany.ems_backend.service;
+package com.apex.ems_backend.service;
 
-import com.abccompany.ems_backend.dto.EmployeeRequestDTO;
-import com.abccompany.ems_backend.model.oracle.Department;
-import com.abccompany.ems_backend.model.oracle.Employee;
-import com.abccompany.ems_backend.model.oracle.JobRole;
-import com.abccompany.ems_backend.model.oracle.UserCredentials;
-import com.abccompany.ems_backend.repository.oracle.DepartmentRepository;
-import com.abccompany.ems_backend.repository.oracle.EmployeeRepository;
-import com.abccompany.ems_backend.repository.oracle.JobRoleRepository;
-import com.abccompany.ems_backend.repository.oracle.UserCredentialsRepository;
+import com.apex.ems_backend.dto.EmployeeRequestDTO;
+import com.apex.ems_backend.model.oracle.Department;
+import com.apex.ems_backend.model.oracle.Employee;
+import com.apex.ems_backend.model.oracle.JobRole;
+import com.apex.ems_backend.model.oracle.UserCredentials;
+import com.apex.ems_backend.repository.oracle.DepartmentRepository;
+import com.apex.ems_backend.repository.oracle.EmployeeRepository;
+import com.apex.ems_backend.repository.oracle.JobRoleRepository;
+import com.apex.ems_backend.repository.oracle.UserCredentialsRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
